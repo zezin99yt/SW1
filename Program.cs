@@ -1,4 +1,4 @@
-﻿namespace novo;
+﻿namespace exemplo_acessor;
 class Program
 {
     static void Main(string[] args)
