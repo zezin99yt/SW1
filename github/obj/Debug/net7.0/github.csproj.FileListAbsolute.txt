@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\github\bin\Debug\net7.0\github.exe
+C:\Users\LAB4\Desktop\github\bin\Debug\net7.0\github.deps.json
+C:\Users\LAB4\Desktop\github\bin\Debug\net7.0\github.runtimeconfig.json
+C:\Users\LAB4\Desktop\github\bin\Debug\net7.0\github.dll
+C:\Users\LAB4\Desktop\github\bin\Debug\net7.0\github.pdb
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\github.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\github.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\github.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\github.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\github.dll
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\refint\github.dll
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\github.pdb
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\github.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\github\obj\Debug\net7.0\ref\github.dll
